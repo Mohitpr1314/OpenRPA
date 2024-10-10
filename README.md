@@ -19,6 +19,9 @@ Robot 4 - Web Data Scraping
 
 The robot will launch the browser at a online store that contains books listed across multiple pages. The robot will extract the title and price of each book up to a certain page. After extraction, the information extracted from each book will be written in an Excel file.
 
+![image](https://github.com/user-attachments/assets/8538487d-d597-4696-9db6-c41eef343976)
+
+
 
 
 Robot 5 - Documents Processing
