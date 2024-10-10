@@ -42,3 +42,5 @@ This will be the final project we will do, where will be explained and proposed 
 The robots developed during the course will be made available for download.
 
 The last two sections of the course will include an introduction to OpenFlow and Node-RED, tools that can work with OpenRPA.
+
+For Download OpenRPA : https://github.com/open-rpa/openrpa/releases/tag/1.4.42
